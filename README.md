@@ -2,7 +2,7 @@
 
 ## 📖 Descripción General
 
-This project demonstrates how to automate virtual machine provisioning and configuration in Proxmox VE using Ansible. The lab focuses on Infrastructure as Code (IaC), repeatability, and scalable infrastructure management.
+This project demonstrates how to automate virtual machine provisioning and configuration in Proxmox VE using Ansible.
 
 ---
 
